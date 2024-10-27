@@ -1,8 +1,7 @@
-# Personal-Portfoli
-In this project, you will style the HTML website structure you created previously in a different project. The focus will be on learning how to use CSS to create responsive layouts, apply color and typography, and enhance the overall design of your website.
+#Tabs
+This project is designed to introduce you to basic DOM manipulation and event handling in JavaScript.
 
-Rough mockups of the website structure for mobile and desctop devices are given below. Do not worry about the design details i.e. colors backgrounds etc at this stage; we are not looking for a beautiful design, but a well-structured and responsive website. Just focus on making the layout same as the mockup and ensuring it looks good on different screen sizes.
-
+You are required to create a simple tabs functionality using HTML, CSS, and basic JavaScript. The page will have four tabs, with the first tab being active by default. When the user clicks on another tab, the content of the current tab will be hidden, and the content of the selected tab will be displayed.
 Author - Chirag sing 
 
-Project-URL https://roadmap.sh/projects/portfolio-website 
+Project-URL https://roadmap.sh/projects/simple-tabs 
