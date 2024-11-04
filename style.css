@@ -42,7 +42,6 @@ main{
 .tab-contents {
     display: none;
 }
-
 .tab-contents.actives {
     display: block;
 }
